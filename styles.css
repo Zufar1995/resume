@@ -1,0 +1,81 @@
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    background: #f1f1f1;
+    color: #0f141e;
+
+}
+    a {
+        color: #000;
+        text-decoration:none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    color: blue;
+
+}
+a:visited {
+    color: grey;
+}
+.conteiner {
+    max-width: 750px;
+    margin: auto;
+    padding: 30px;
+}
+.avatar {
+    width: 200;
+}
+
+.info {
+    margin-bottom: 20px;
+}
+
+.info-text p {
+    font-style: italic;
+    font-weight: bold;
+    color: #86898f;
+    margin: 0;
+}
+.info-text h4 {
+ margin-bottom: 10px;
+}
+.card {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+}
+.card h2 {
+    margin-bottom: 10px;
+}
+.bg-yellow {
+    background: #fff;
+}
+.bg-red {
+    background: #ffe5e5
+}
+.bg-greem {
+    background: #e5ffe7;
+}
+.btn {
+    background: #111;
+    paddibg: 15px 20px;
+    color: #fff;
+    border: nome;
+    font-family: inherit;
+    cursor: pointer;
+}
+.btn: hover {}
+
+.from h2 {
+    text-align: center;
+}
+
+.from-group label  {
+    display: block;
+}
